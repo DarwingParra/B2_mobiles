@@ -13,8 +13,8 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:layout_alignParentTop="true"
-    app:cardCornerRadius="40dp"
-    android:layout_marginBottom="-20dp"
+    app:cardCornerRadius="30dp"
+    android:layout_marginTop="-15dp"
     android:alpha="0.8"
 
     >
@@ -51,7 +51,7 @@
             android:layout_height="255dp"
             android:layout_gravity="center_vertical"
             android:layout_marginStart="-270dp"
-            android:layout_marginBottom="40dp"
+            android:layout_marginBottom="25dp"
             app:shapeAppearanceOverlay="@style/roundedImageViewRounded"
             app:srcCompat="@drawable/chef_1"
             app:strokeWidth="3dp"
